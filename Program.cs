@@ -9,6 +9,7 @@ class Program
         string army1 = "lol2";
 
         Console.WriteLine($"Welcome to the crusader tracker :)\n are we \nAdding squad type\nEditing an army?\ntype: Y\\N for yes or no");
-        UnitAdding.MakeSquad();
+        UnitAdding.GiveUnitName();
+        
     }
 }
