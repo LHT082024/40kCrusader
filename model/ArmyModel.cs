@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace _40kCrusader.model
+namespace _40kCrusader
 {
     //this is the model for the actual armies stored in Json
     public class ArmyModel

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace _40kCrusader.model
+namespace _40kCrusader
 {
     public class UnitPresets
     {
